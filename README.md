@@ -2,8 +2,6 @@
 
 Create your virtual AI influencer for free with open-source technologies
 
-Link to medium tutorial :- https://medium.com/@anilmatcha/ai-influencer-automation-to-earn-10k-month-for-free-b8936212bcb9 
-
 ### Demo Video
 
 https://github.com/user-attachments/assets/c5c27c58-7f3d-450e-a1dc-26984a0d2c05
@@ -12,11 +10,9 @@ https://github.com/user-attachments/assets/c5c27c58-7f3d-450e-a1dc-26984a0d2c05
 
 If you enjoy using AI Influencer, we'd appreciate your support with a star ⭐ on our repository. Your encouragement is invaluable and inspires us to continually improve and expand AI Influencer. Thank you, and happy content creation! 🎉
 
-[![GitHub star chart](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer?style=social)](https://github.com/SamurAIGPT/AI-Influencer/stargazers)
-
 ### Steps to run
 
-Open the colab notebook from [here](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb) and run all the steps one-by-one
+Open the colab notebook from [here] IPYNB file and run all the steps one-by-one
 
 ### Technologies used
 
